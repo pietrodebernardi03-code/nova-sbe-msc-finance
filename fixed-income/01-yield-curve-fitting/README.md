@@ -1,4 +1,4 @@
-# Assignment 1 — Yield Curve Fitting
+# Yield Curve Fitting
 **Fixed Income · Nova SBE · Prof. Ante Sterc · February 27, 2026**
 
 ---
@@ -93,5 +93,3 @@ To re-run the Solver optimisation in Excel:
 4. Ensure GRG Nonlinear is selected as the solving method
 
 ---
-
-*Group 8: Pietro De Bernardi (69791), Jerome Henderickx (77435), Eva Anna Marie Demasure (70301), Leith Konstantinos Alexandris-Baba (75673)*
