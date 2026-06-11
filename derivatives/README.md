@@ -10,5 +10,3 @@ This directory contains the Derivatives course project, analysing Microsoft (MSF
 | 01 | MSFT Options Analysis | Python | IV surface, Breeden-Litzenberger RND, discrete delta-hedging |
 
 ---
-
-*Group: Pietro De Bernardi (69791), and group members 75080, 70468, 70590, 77331*
