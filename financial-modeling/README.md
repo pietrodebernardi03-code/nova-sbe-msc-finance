@@ -11,4 +11,4 @@ This directory contains the Financial Modeling course project, constructing a co
 
 ---
 
-*Group J — Nova SBE 2025/26*
+*Nova SBE 2025/26*
