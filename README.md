@@ -69,14 +69,14 @@ nova-sbe-msc-finance/
 
 ## Academic Context
 
-All projects were completed as part of the following courses at Nova SBE (2024–2026):
+All projects were completed as part of the following courses at Nova SBE (2025-2026):
 
 - **Hedge Funds** — Prof. Carlos Duarte D'Almeida
-- **Credit Risk** — 2025/26
-- **Financial Modeling** — 2025/26
+- **Credit Risk** — Prof. Ante Sterc
+- **Financial Modeling** — Prof. Tatyana Marchuk
 - **Numerical Methods for Economics and Finance** — Prof. André Silva
-- **Empirical Methods for Finance** — 2025/26
-- **Research Methods for Finance** — Supervisors: Julio A. Crego, Fabian Waßmann
+- **Empirical Methods for Finance** — Prof. Virginia Gianinazzi
+- **Research Methods for Finance** — Prof. Julio A. Crego, T.A. Fabian Waßmann
 
 ---
 
