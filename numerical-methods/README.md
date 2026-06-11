@@ -10,5 +10,3 @@ This directory contains the course project, solving a stochastic consumption-inv
 | 01 | Stochastic Growth Model | MATLAB / Dynare | Ramsey model with and without depreciation: policy functions, IRFs, simulation |
 
 ---
-
-*Pietro De Bernardi (69791), Marco Aldrighetti (72475), Alessandro De Riccardis (72086)*
