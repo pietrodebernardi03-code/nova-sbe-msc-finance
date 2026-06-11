@@ -60,5 +60,3 @@ The Python model requires two CSV files with spot and 3-month forward rates:
 > **Note:** These CSV files are excluded from the repository as they contain Bloomberg-sourced data subject to a proprietary data licence. Bloomberg Terminal access is required to replicate the model inputs. Bloomberg ATM implied volatility charts referenced in the report (Figures 3 and 5) are similarly excluded.
 
 ---
-
-*Group: Pietro De Bernardi (69791), Diogo Rito Mota Pinto (75080), Lou Bervard (72649), Guilherme Natario Rio Tinto (73277)*
