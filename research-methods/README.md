@@ -10,5 +10,3 @@ This directory contains the Research Methods for Finance course assignment, esti
 | 01 | Tick Size & Turnover | Stata | DiD + heterogeneous treatment effects on daily share turnover (SEC Tick Size Pilot) |
 
 ---
-
-*Group 18: Pietro De Bernardi (69791), Julian Endreß (70474), Darius Richter (71362), Samia Snen (72931), António Rocha (70191)*
