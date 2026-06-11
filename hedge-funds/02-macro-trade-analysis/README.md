@@ -43,7 +43,7 @@ where T = 0.25 (3-month tenor). A 21-day rolling standard deviation annualised b
 
 | File | Description |
 |---|---|
-| `macro-trade-volatility-model.py` | CIP-based forward implied yield differential volatility model for USD/KRW and USD/CHF |
+| `macro-trade-volatility-model.ipynb` | CIP-based forward implied yield differential volatility model for USD/KRW and USD/CHF |
 | `macro-trade-report.pdf` | Full written report: macro analysis, trade construction, Bloomberg chart references |
 
 ---
