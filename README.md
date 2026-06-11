@@ -1,6 +1,7 @@
 # MSc in Finance — Quantitative Portfolio
-**Nova School of Business and Economics · Carcavelos, Portugal**
-*Pietro De Bernardi*
+**· Nova School of Business and Economics**
+*  · Carcavelos, Portugal*
+* · Pietro De Bernardi*
 
 ---
 
