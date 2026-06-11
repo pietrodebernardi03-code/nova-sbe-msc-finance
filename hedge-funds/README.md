@@ -13,5 +13,3 @@ This directory contains four assignments completed for the Hedge Funds course. T
 | 04 | Statistical Arbitrage | Python | Pairs trading portfolio with cointegration screening |
 
 ---
-
-*Group: Pietro De Bernardi (69791), Diogo Rito Mota Pinto (75080), Lou Bervard (72649), Guilherme Natario Rio Tinto (73277)*
