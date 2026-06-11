@@ -10,5 +10,3 @@ This directory contains the Empirical Methods for Finance course assignment, ana
 | 01 | Tick Size & Trading Activity | Stata | DiD analysis of SEC tick size increase on trading volume and turnover |
 
 ---
-
-*Nova SBE 2025/26*
