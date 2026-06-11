@@ -85,7 +85,7 @@ nova-sbe-msc-finance/
 
 ## Academic Context
 
-All projects were completed as part of the following courses at Nova SBE during the academic year 2025/2026):
+All projects were completed as part of the following courses at Nova SBE during the academic year 2025/2026:
 
 - **Hedge Funds** — Prof. Carlos Duarte D'Almeida
 - **Derivatives** — Prof. Gustavo Freire
