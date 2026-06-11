@@ -1,4 +1,4 @@
-# Assignment 1 — Portfolio Backtesting
+# Portfolio Backtesting
 **Hedge Funds · Nova SBE · Prof. Carlos Duarte D'Almeida**
 
 ---
