@@ -1,4 +1,4 @@
-# Project 6 — CDS Pricing
+# CDS Pricing
 **Credit Risk · Nova SBE · 2025/26**
 
 ---
@@ -94,5 +94,3 @@ All inputs are synthetic parameters from the course assignment specification. No
 | Original CDS maturity | 5 years (now 4 years remaining) |
 
 ---
-
-*Group 15: Pietro De Bernardi (69791), Giammarco Ricciardilli (75040), Lucas Laussegger (73038)*
