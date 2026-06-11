@@ -11,4 +11,4 @@ This directory contains the Empirical Methods for Finance course assignment, ana
 
 ---
 
-*Group A31 — Nova SBE 2025/26*
+*Nova SBE 2025/26*
