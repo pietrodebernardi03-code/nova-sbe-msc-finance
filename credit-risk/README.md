@@ -10,5 +10,3 @@ This directory contains the Credit Risk course project, implementing Credit Valu
 | 01 | Credit VaR | Python | Analytical bivariate normal VaR and Monte Carlo simulation on bond portfolios |
 
 ---
-
-*Group: Pietro De Bernardi (69791), Giammarco Ricciardilli (75040), Lucas Laussegger (73038)*
