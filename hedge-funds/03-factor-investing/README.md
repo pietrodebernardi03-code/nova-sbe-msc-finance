@@ -58,7 +58,7 @@ All fundamental data is lagged by three months to eliminate look-ahead bias.
 
 | File | Description |
 |---|---|
-| `factor-investing.py` | Full backtest pipeline: data loading, factor construction, Z-score engine, simulation, performance reporting, tear-sheet plots |
+| `factor-investing.ipynb` | Full backtest pipeline: data loading, factor construction, Z-score engine, simulation, performance reporting, tear-sheet plots |
 | `factor-investing-report.pdf` | Written report with strategy overview, methodology, in-sample and out-of-sample results |
 
 ---
