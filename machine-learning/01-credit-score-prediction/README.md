@@ -1,4 +1,4 @@
-# Assignment — Credit Score Prediction
+# Credit Score Prediction
 **Introduction to Machine Learning · Nova SBE · 2025/26**
 
 ---
@@ -55,5 +55,3 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 > **Note:** The dataset used in this project is not included in the repository. Please refer to the course materials for access to the original data file. The notebook expects a CSV with credit-related features including payment history, credit utilisation, account age, and derogatory marks.
 
 ---
-
-*Nova SBE · Introduction to Machine Learning · 2025/26*
