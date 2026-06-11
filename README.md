@@ -1,8 +1,8 @@
 # MSc in Finance — Quantitative Portfolio
 
-**Nova School of Business and Economics · Lisbon, Portugal**
+**Nova School of Business and Economics ·
 
-*Pietro De Bernardi · Student ID 69791*
+*Pietro De Bernardi*
 
 ---
 
