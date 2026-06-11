@@ -94,5 +94,3 @@ The increase of 26.34 relative to Exercise 3 arises from the compounding of join
 All numerical inputs (transition probability matrix, one-year forward zero rates, bond parameters, factor loadings, recovery rate statistics) are sourced from course handouts and provided in the notebook as hard-coded arrays. No external dataset is required.
 
 ---
-
-*Group: Pietro De Bernardi (69791), Giammarco Ricciardilli (75040), Lucas Laussegger (73038)*
