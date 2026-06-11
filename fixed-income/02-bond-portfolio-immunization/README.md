@@ -1,5 +1,5 @@
-# Assignment 2 — Bond Portfolio Immunization
-**Fixed Income · Nova SBE · Prof. Ante Sterc · March 13, 2026**
+# Bond Portfolio Immunization
+**Fixed Income · Nova SBE · Prof. Ante Sterc**
 
 ---
 
@@ -120,5 +120,3 @@ No external data is required. All inputs (liability amounts, coupon rates, inter
 5. Method: GRG Nonlinear → Solve
 
 ---
-
-*Group 8: Pietro De Bernardi (69791), Jerome Henderickx (77435), Eva Anna Marie Demasure (70301), Leith Konstantinos Alexandris-Baba (75673)*
