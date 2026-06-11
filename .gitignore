@@ -1,0 +1,107 @@
+# ============================================================
+# .gitignore — nova-sbe-msc-finance
+# Covers: Python, MATLAB/Dynare, Stata, LaTeX, data, secrets
+# ============================================================
+
+# ── Proprietary & licensed datasets ─────────────────────────
+# Never commit data sourced from CRSP, Bloomberg, OptionMetrics,
+# Robinhood/RH, or any vendor with an institutional license.
+*.dta
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.mat          # MATLAB data files (not .mod scripts)
+*.sav
+*.zsav
+
+# Bloomberg screenshots and terminal exports
+bloomberg_*.png
+bloomberg_*.pdf
+*_bloomberg.*
+
+# ── Environment & secrets ────────────────────────────────────
+.env
+.env.local
+.env.production
+*.pem
+*.key
+api_keys.py
+secrets.py
+config_private.py
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── MATLAB / Dynare ──────────────────────────────────────────
+*.asv          # MATLAB auto-save
+*.mex*         # compiled MEX files
+dynare_output/ # Dynare output folder
+*_results/
+*.log          # Dynare log files
+
+# ── Stata ────────────────────────────────────────────────────
+*.log
+*.smcl
+*.stswp
+*.ster
+
+# ── LaTeX ────────────────────────────────────────────────────
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
+*.synctex.gz
+*.toc
+*.xdv
+
+# ── OS & editors ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Outputs & large intermediary files ───────────────────────
+*.png         # generated plots — commit only when intentional
+*.pdf         # generated PDFs — commit only reports
+!**/reports/*.pdf
+!**/writeups/*.pdf
