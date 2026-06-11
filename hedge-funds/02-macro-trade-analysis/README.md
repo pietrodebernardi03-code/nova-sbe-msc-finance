@@ -1,4 +1,4 @@
-# Assignment 2 — Macro Trade Analysis
+# Macro Trade Analysis
 **Hedge Funds · Nova SBE · Prof. Carlos Duarte D'Almeida**
 
 *Data as of the last week of February 2026. The macroeconomic assessment does not incorporate subsequent geopolitical developments.*
