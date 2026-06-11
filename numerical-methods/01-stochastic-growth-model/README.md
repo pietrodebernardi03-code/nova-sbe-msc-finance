@@ -11,7 +11,7 @@ This project solves two variants of the canonical Ramsey stochastic growth model
 
 ## Model Specification
 
-**Question 1 — No Depreciation**
+**Part 1 — No Depreciation**
 
 ```
 v(k_t, A_t) = max_{k_{t+1}} [ log(A_t k_t^α − k_{t+1}) + β E_t v(k_{t+1}, A_{t+1}) ]
@@ -31,7 +31,7 @@ k_t = 0.16 + 0.50 (k_{t−1} − k_ss) + 0.152 (A_{t−1} − 1) + 0.16 ε_t
 
 where a₁ = α = 0.5 is the stable Blanchard-Kahn eigenvalue, a₂ = k_ss · ρ = 0.152, and a₃ = k_ss = 0.16.
 
-**Question 2 — With Depreciation (δ = 0.10)**
+**Part 2 — With Depreciation (δ = 0.10)**
 
 The modified Euler equation gains the undepreciated residual term:
 
