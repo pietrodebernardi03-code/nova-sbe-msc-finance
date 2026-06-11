@@ -11,5 +11,3 @@ This directory contains two assignments from the Fixed Income course, covering y
 | 02 | Bond Portfolio Immunization | Excel (Solver) | Duration matching, convexity analysis, portfolio rebalancing |
 
 ---
-
-*Group 8: Pietro De Bernardi (69791), Jerome Henderickx (77435), Eva Anna Marie Demasure (70301), Leith Konstantinos Alexandris-Baba (75673)*
