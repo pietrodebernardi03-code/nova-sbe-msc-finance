@@ -1,4 +1,4 @@
-# Assignment — What Can We Learn from Option Prices?
+# What Can We Learn from Option Prices?
 **Derivatives (2218) · Nova SBE · Prof. Gustavo Freire**
 
 ---
@@ -82,5 +82,3 @@ The analysis uses an OptionMetrics dataset of MSFT option prices (clean prices, 
 > **Note:** The OptionMetrics dataset is excluded from this repository as it is sourced under an institutional data licence. OptionMetrics access is available through university subscriptions (Nova SBE, WRDS). The notebook expects a CSV file with columns: `date`, `exdate`, `strike_price`, `best_bid`, `best_offer`, `cp_flag`, `impl_volatility`.
 
 ---
-
-*Group: Pietro De Bernardi (69791), and group members 75080, 70468, 70590, 77331 · Nova SBE 2025/26*
