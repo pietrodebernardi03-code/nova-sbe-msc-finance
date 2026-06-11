@@ -1,5 +1,5 @@
 # Yield Curve Fitting
-**Fixed Income · Nova SBE · Prof. Ante Sterc · February 27, 2026**
+**Fixed Income · Nova SBE · Prof. Ante Sterc**
 
 ---
 
