@@ -1,6 +1,6 @@
 # MSc in Finance — Quantitative Portfolio
-**Nova School of Business and Economics · Lisbon, Portugal**
-*Pietro De Bernardi · Student ID 69791*
+**Nova School of Business and Economics · Carcavelos, Portugal**
+*Pietro De Bernardi*
 
 ---
 
@@ -84,17 +84,17 @@ nova-sbe-msc-finance/
 
 ## Academic Context
 
-All projects were completed as part of the following courses at Nova SBE (2024–2026):
+All projects were completed as part of the following courses at Nova SBE during the academic year 2025/2026):
 
 - **Hedge Funds** — Prof. Carlos Duarte D'Almeida
 - **Derivatives** — Prof. Gustavo Freire
-- **Credit Risk** — 2025/26
+- **Credit Risk** — Prof. Ante Sterc
 - **Fixed Income** — Prof. Ante Sterc
-- **Financial Modeling** — 2025/26
-- **Introduction to Machine Learning** — 2025/26
+- **Financial Modeling** — Prof. Tatyana Marchuk
+- **Introduction to Machine Learning** — Prof. Sabina Zejnilovic
 - **Numerical Methods for Economics and Finance** — Prof. André Silva
-- **Empirical Methods for Finance** — 2025/26
-- **Research Methods for Finance** — Supervisors: Julio A. Crego, Fabian Waßmann
+- **Empirical Methods for Finance** — Prof. Virginia Gianinazzi
+- **Research Methods for Finance** — Prof. Julio A. Crego, T.A. Fabian Waßmann
 
 ---
 
