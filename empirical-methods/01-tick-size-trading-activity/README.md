@@ -1,4 +1,4 @@
-# Assignment — Tick Size and Trading Activity
+# Tick Size and Trading Activity
 **Empirical Methods for Finance · Nova SBE · 2025/26**
 
 ---
@@ -89,4 +89,4 @@ The empirical analysis uses daily stock-level data from the **Center for Researc
 
 ---
 
-*Group A31 — Nova SBE 2025/26*
+*Nova SBE 2025/26*
