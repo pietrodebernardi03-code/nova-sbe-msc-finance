@@ -1,4 +1,4 @@
-# Final Project — Statistical Arbitrage: Pairs Trading Portfolio
+# Statistical Arbitrage: Pairs Trading Portfolio
 **Hedge Funds · Nova SBE · Prof. Carlos Duarte D'Almeida**
 
 ---
@@ -84,7 +84,7 @@ Rolling 252-day betas estimated against SPY.
 
 | File | Description |
 |---|---|
-| `statistical-arbitrage.py` | Full pipeline: cointegration screening, backtest engine, CAPM neutralisation, All-Star portfolio construction, sensitivity analysis, tear-sheet visualisations |
+| `statistical-arbitrage.ipynb` | Full pipeline: cointegration screening, backtest engine, CAPM neutralisation, All-Star portfolio construction, sensitivity analysis, tear-sheet visualisations |
 | `statistical-arbitrage-report.pdf` | Written report with strategy rationale, methodology, results, sensitivity analysis, and limitations |
 
 ---
