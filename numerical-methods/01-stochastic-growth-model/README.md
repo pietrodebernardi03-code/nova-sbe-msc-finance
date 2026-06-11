@@ -1,4 +1,4 @@
-# Project — Stochastic Consumption-Investment Model
+# Stochastic Consumption-Investment Model
 **Numerical Methods for Economics and Finance · Nova SBE · Prof. André Silva · 2025/26**
 
 ---
@@ -79,5 +79,3 @@ dynare ramsey-depreciation.mod
 No external data files are required. All model parameters are hard-coded in the `.mod` files.
 
 ---
-
-*Pietro De Bernardi (69791), Marco Aldrighetti (72475), Alessandro De Riccardis (72086)*
