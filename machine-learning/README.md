@@ -10,5 +10,3 @@ This directory contains the Machine Learning course project, building a supervis
 | 01 | Credit Score Prediction | Python | Classification pipeline: EDA, preprocessing, model selection, feature importance |
 
 ---
-
-*Nova SBE · Introduction to Machine Learning · 2025/26*
