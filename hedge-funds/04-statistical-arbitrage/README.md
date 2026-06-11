@@ -107,5 +107,3 @@ pip install yfinance pandas numpy scipy statsmodels matplotlib
 - **Structural break risk**: rolling Sharpe instability is structurally expected in mean-reversion strategies and is indistinguishable in real time from permanent cointegration breakdown
 
 ---
-
-*Group: Pietro De Bernardi (69791), Diogo Rito Mota Pinto (75080), Lou Bervard (72649), Guilherme Natario Rio Tinto (73277)*
