@@ -1,4 +1,4 @@
-# Assignment — The Causal Effect of Minimum Tick Size Increases on Trading Turnover
+# The Causal Effect of Minimum Tick Size Increases on Trading Turnover
 **Research Methods for Finance · Nova SBE · Spring 2026**
 *Supervisors: Julio A. Crego, Fabian Waßmann*
 
@@ -108,5 +108,3 @@ The analysis uses daily stock-level data from the **Center for Research in Secur
 - Harris, L. (1994). Minimum price variations, discrete bid–ask spreads, and quotation sizes. *Review of Financial Studies*, 7(1), 149–178.
 
 ---
-
-*Group 18: Pietro De Bernardi (69791), Julian Endreß (70474), Darius Richter (71362), Samia Snen (72931), António Rocha (70191)*
