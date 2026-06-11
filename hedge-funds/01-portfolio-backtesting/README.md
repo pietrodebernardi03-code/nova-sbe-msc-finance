@@ -70,5 +70,3 @@ pip install yfinance pandas numpy scipy matplotlib
 - Sensitivity analysis confirms robustness across VIX thresholds in the 20–30 range
 
 ---
-
-*Group: Pietro De Bernardi (69791), Diogo Rito Mota Pinto (75080), Lou Bervard (72649), Guilherme Natario Rio Tinto (73277)*
