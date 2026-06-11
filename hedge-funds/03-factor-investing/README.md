@@ -1,4 +1,4 @@
-# Assignment 3 — Factor Investing
+# Factor Investing
 **Hedge Funds · Nova SBE · Prof. Carlos Duarte D'Almeida**
 
 ---
@@ -80,5 +80,3 @@ The backtest reads a Bloomberg Excel export with five fields across the S&P 500 
 To run the script, place the Excel file in the same directory and update `EXCEL_PATH` at the top of `factor-investing.py`.
 
 ---
-
-*Group: Pietro De Bernardi (69791), Diogo Rito Mota Pinto (75080), Lou Bervard (72649), Guilherme Natario Rio Tinto (73277)*
