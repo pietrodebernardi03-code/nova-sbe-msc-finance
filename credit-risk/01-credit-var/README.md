@@ -1,4 +1,4 @@
-# Project 5 — Credit Value-at-Risk
+# Credit Value-at-Risk
 **Credit Risk · Nova SBE · 2025/26**
 
 ---
