@@ -10,5 +10,3 @@ This directory contains the Financial Modeling course project, constructing a co
 | 01 | ETF Portfolio Optimization | Python | Constrained MVO, efficient frontier, FRED API data retrieval |
 
 ---
-
-*Nova SBE 2025/26*
